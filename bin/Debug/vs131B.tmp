@@ -1,0 +1,1570 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PharmacyManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Invoice_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.InvoiceInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PartyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Sales_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Invoice_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.InvoiceInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PartyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Sales_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Invoice_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.InvoiceInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PartyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Sales_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.TaxTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Temp_Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.CompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Invoice_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.InvoiceInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.PartyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Product_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Sales_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TaxMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TaxTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Temp_Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(PharmacyManagementSystem.PharmacyDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(PharmacyManagementSystem.PharmacyDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(PharmacyManagementSystem.PharmacyDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(PharmacyManagementSystem.PharmacyDBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:PharmacyManagementSystem.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PartyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Sales_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PartyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Sales_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PartyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Sales_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.TaxTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Temp_Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.CompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.PartyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Product_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Sales_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TaxMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TaxTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Temp_Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PharmacyManagementSystem.PharmacyDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PharmacyManagementSystem.PharmacyDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PharmacyManagementSystem.PharmacyDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.UpdateAll(PharmacyManagementSystem.PharmacyDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PharmacyManagementSystem.PharmacyDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._1__16_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._1__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._1425837994checkIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._780434_medicines_and_drugs_wallpaper_hd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources._91">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Action_Security_ChangePassword">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Action_Security_ChangePassword_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Activate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Activate1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Admin_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.barcode_folded_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.basket_full_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Billing_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Building_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Button_Delete_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Button_Ok_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.category_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Company1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.currency_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Database_Active_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Database_Active_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.database_check_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Delete_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.icon_pos_point_of_sale_systems_clover_dinerware_compressor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Inventory_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.keyboard_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.keyboard_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.keyboard_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.log_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Log_Out_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.login_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Maximise_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.medicines_l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.ModernXP_09_Keyboard_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.money_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Money_icon22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Normal_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.payment_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Pharmaceutical_Drugs_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Print_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.print_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.print_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.product_sales_report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Programming_Minimize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Reset2_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Save_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Stocks_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.supermarket_674474_1280">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.User_Group_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.User_Interface_Restore_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.Users_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PharmacyManagementSystem.My.Resources.Resources.wire_transfer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PharmacyManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PharmacyManagementSystem.ProductDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PharmacyManagementSystem.ProductDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PharmacyManagementSystem.ProductDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.UpdateAll(PharmacyManagementSystem.ProductDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PharmacyManagementSystem.ProductDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

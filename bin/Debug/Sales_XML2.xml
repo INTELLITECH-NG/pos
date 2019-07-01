@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DiscPer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DiscAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Member_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="Margin" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TaxType" type="xs:string" minOccurs="0" />
+              <xs:element name="Inv_ID" type="xs:int" minOccurs="0" />
+              <xs:element name="InvoiceNo" type="xs:string" minOccurs="0" />
+              <xs:element name="InvoiceDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="OpenID" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentMode" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrencyCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ExchangeRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GrandTotal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Cash" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Change" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IPo_ID" type="xs:int" minOccurs="0" />
+              <xs:element name="InvoiceID" type="xs:int" minOccurs="0" />
+              <xs:element name="ProductID" type="xs:int" minOccurs="0" />
+              <xs:element name="Barcode" type="xs:string" minOccurs="0" />
+              <xs:element name="BatchNo" type="xs:string" minOccurs="0" />
+              <xs:element name="MfgDate" type="xs:string" minOccurs="0" />
+              <xs:element name="ExpiryDate" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SalesRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DiscountPer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Discount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VATPer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AddVatPer" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AddVat" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Qty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Expr1" type="xs:int" minOccurs="0" />
+              <xs:element name="TillDetails" type="xs:string" minOccurs="0" />
+              <xs:element name="UserID" type="xs:string" minOccurs="0" />
+              <xs:element name="OpeningDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="OpeningCash" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Closed" type="xs:int" minOccurs="0" />
+              <xs:element name="PID" type="xs:int" minOccurs="0" />
+              <xs:element name="ProductCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductName" type="xs:string" minOccurs="0" />
+              <xs:element name="Alias" type="xs:string" minOccurs="0" />
+              <xs:element name="VATCommodity" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr2" type="xs:string" minOccurs="0" />
+              <xs:element name="Category" type="xs:string" minOccurs="0" />
+              <xs:element name="PurchaseUnit" type="xs:string" minOccurs="0" />
+              <xs:element name="SalesUnit" type="xs:string" minOccurs="0" />
+              <xs:element name="PurchaseCost" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Expr3" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ReorderPoint" type="xs:int" minOccurs="0" />
+              <xs:element name="AddedDate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" type="xs:int" minOccurs="0" />
+              <xs:element name="CompanyName" type="xs:string" minOccurs="0" />
+              <xs:element name="MailingName" type="xs:string" minOccurs="0" />
+              <xs:element name="Country" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="City" type="xs:string" minOccurs="0" />
+              <xs:element name="State" type="xs:string" minOccurs="0" />
+              <xs:element name="PinCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ContactNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Fax" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" type="xs:string" minOccurs="0" />
+              <xs:element name="Website" type="xs:string" minOccurs="0" />
+              <xs:element name="TIN" type="xs:string" minOccurs="0" />
+              <xs:element name="LicenseNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceTaxNo" type="xs:string" minOccurs="0" />
+              <xs:element name="CST" type="xs:string" minOccurs="0" />
+              <xs:element name="PAN" type="xs:string" minOccurs="0" />
+              <xs:element name="CurrencyCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Currency" type="xs:string" minOccurs="0" />
+              <xs:element name="Logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

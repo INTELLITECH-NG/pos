@@ -1,0 +1,1310 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RetailPOS
+</name>
+</assembly>
+<members>
+<member name="M:RetailPOS.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="P:RetailPOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._1__16_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._1__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._1425837994checkIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._780434_medicines_and_drugs_wallpaper_hd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._780434_medicines_and_drugs_wallpaper_hd1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources._91">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Action_Security_ChangePassword">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Action_Security_ChangePassword_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Activate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Activate1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Admin_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.barcode_folded_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.basket_full_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Billing_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Building_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Button_Delete_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Button_Ok_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Calendar22_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.category_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Company1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.currency_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Database_Active_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Database_Active_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.database_check_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Delete_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Finance_Pos_Terminal_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.icon_pos_point_of_sale_systems_clover_dinerware_compressor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.icon_pos_point_of_sale_systems_clover_dinerware_compressor1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Inventory_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.keyboard_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.keyboard_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.keyboard_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.log_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Log_Out_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Log_Out_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.login_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Maximise_32X32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Maximise_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.medicamentos_680x365">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.medicines_l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.ModernXP_09_Keyboard_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.money_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Money_icon22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Normal_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.patientsacro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.payment_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Pharmaceutical_Drugs_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Print_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.print_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.print_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.product_sales_report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Programming_Minimize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Reset2_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Save_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Stocks_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.supermarket_674474_1280">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.User_Group_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.User_Interface_Restore_Window_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.User_Interface_Restore_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.Users_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RetailPOS.My.Resources.Resources.wire_transfer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RetailPOS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Invoice_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.InvoiceInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PartyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_ClosingCashDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillItemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_OpeningCashDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductLocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrder_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturn_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RackingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Sales_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturn_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_Join_WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_Join_W2WDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_W2WDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_Stock_CompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.UnitMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WalletDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Invoice_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.InvoiceInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PartyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_ClosingCashRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillItemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_OpeningCashRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductLocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrder_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturn_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RackingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Sales_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturn_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_Join_WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_Join_W2WRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_W2WRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_Stock_CompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.UnitMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WalletRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CreditCustomerPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Invoice_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.InvoiceInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PartyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_ClosingCashRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_HoldBillItemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.POS_OpeningCashRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.ProductLocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseOrder_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.PurchaseReturn_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RackingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Sales_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SalesReturn_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_Join_WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockAdjustment_WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_Join_W2WRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.StockTransfer_W2WRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.TaxTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Temp_Stock_CompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.UnitMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WalletRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CreditCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CreditCustomerLedgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CreditCustomerPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Invoice_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.InvoiceInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PartyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.POS_ClosingCashTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.POS_HoldBillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.POS_HoldBillItemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.POS_OpeningCashTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Product_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.ProductLocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PurchaseOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PurchaseOrder_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PurchaseReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.PurchaseReturn_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.RackingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Sales_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SalesReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SalesReturn_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockAdjustmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockAdjustment_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockAdjustment_Join_WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockAdjustment_WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockTransfer_Join_W2WTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.StockTransfer_W2WTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.TaxMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.TaxTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Temp_Stock_CompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.UnitMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.WalletTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RetailPOS.RetailPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RetailPOS.RetailPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RetailPOS.RetailPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(RetailPOS.RetailPOS_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RetailPOS.RetailPOS_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
